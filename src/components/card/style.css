@@ -1,0 +1,17 @@
+.card_container{
+    min-height: 200px;
+    max-width: 800px;   
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);    
+    color: white;
+    margin: 0 auto;
+}
+
+.card_container.green{
+    background-color: rgb(88, 168, 76);
+}
+
+.card_container h3{ 
+    text-align: center;
+    padding-top: 20px;
+}
+
