@@ -8,7 +8,6 @@ export default class Card extends Component {
         
         return (
             <div class={containerClasses}>
-            {/* // <div class={[style.card_container, style.green]}> */}
                 <h3>
                     Card header
                 </h3>

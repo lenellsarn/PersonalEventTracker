@@ -31,7 +31,6 @@ export default class App extends Component {
 					<Profile path="/profile/" user="me" />
 					<Profile path="/profile/:user" />
 				</Router>
-				<Card />
 			</div>
 		);
 	}
